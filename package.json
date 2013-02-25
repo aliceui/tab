@@ -1,0 +1,22 @@
+{
+    "name": "tab",
+    "version": "1.0.0",
+    "root": "alice",
+    "description": "标签切换组件。",
+    "homepage": "",
+    "author": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aliceui/"
+    },
+    "bugs": {
+        "url": "https://github.com/aliceui/issues"
+    },
+    "license": "MIT",
+    "dependencies": {
+    },
+    "tests": ["tab"],
+    "output": {
+        "tab.css": "."
+    }
+}
