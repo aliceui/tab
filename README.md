@@ -8,7 +8,7 @@
 
 ## 演示
 
-<link type="text/css" rel="stylesheet" media="screen" href="../src/tab.css">
+<link type="text/css" rel="stylesheet" media="screen" href="src/tab.css">
 
 ````html
 <div class="ui-tab">
