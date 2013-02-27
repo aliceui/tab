@@ -55,5 +55,6 @@
 
 .ui-tab-item a:hover {
     background: #f6f6f6;
+    text-decoration: none;
 }
 
