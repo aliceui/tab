@@ -38,6 +38,7 @@
     display: inline-block;
     *display: inline;
     *zoom: 1;
+    transition: all 0.4s ease-out;
 }
 
 .ui-tab-item-current {
@@ -58,3 +59,6 @@
     text-decoration: none;
 }
 
+.ui-tab-item-current a:hover {
+    background: #fff;
+}
