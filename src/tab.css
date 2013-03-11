@@ -7,11 +7,14 @@
     padding: 0;
 }
 
-.ui-tab ul,
-.ui-tab li {
+.ui-tab ul {
     list-style: none;
     margin: 0;
     padding: 0;
+}
+
+.ui-tab li {
+    list-style: none;
 }
 
 .ui-tab-items {
@@ -23,7 +26,7 @@
     display: inline-block;
     *display: inline;
     *zoom: 1;
-    margin-right: 4px;
+    *margin-right: 4px;
 }
 
 .ui-tab-item a {
