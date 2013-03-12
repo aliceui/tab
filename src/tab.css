@@ -15,6 +15,9 @@
 
 .ui-tab li {
     list-style: none;
+    vertical-align: top;
+    position: relative;
+    top: 1px;
 }
 
 .ui-tab-items {
@@ -44,17 +47,9 @@
     transition: all 0.4s ease-out;
 }
 
-.ui-tab-item-current {
-    position: relative;
-    height: 33px;
-    top: -1px;
-}
-
 .ui-tab-item-current a {
     font-weight: bold;
-    position: relative;
     height: 33px;
-    top: 1px;
 }
 
 .ui-tab-item a:hover {
