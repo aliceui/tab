@@ -9,6 +9,12 @@
 ## 演示
 
 <link type="text/css" rel="stylesheet" media="screen" href="src/tab.css">
+<style>
+a { color:#08c; }
+a:hover { color:#0fa; }
+a:active { color:#f60; }
+a:visited { color:#000; }
+</style>
 
 ````html
 <div class="ui-tab">

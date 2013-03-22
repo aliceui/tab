@@ -49,6 +49,12 @@
     transition: background-color 0.4s ease-out, color 0.4s ease-out;
 }
 
+.ui-tab-item a,
+.ui-tab-item a:hover,
+.ui-tab-item a:active {
+    color: #4D4D4D;
+}
+
 .ui-tab-item-current a {
     font-weight: bold;
     height: 33px;
