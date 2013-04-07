@@ -1,25 +1,24 @@
 {
     "name": "tab",
     "version": "1.0.0",
-    "root": "alice",
+    "family": "alice",
     "description": "标签切换组件。",
     "keywords": [
         "标签页"
     ],
-    "homepage": "",
+    "homepage": "http://aliceui.org/tab",
     "author": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/aliceui/"
+        "url": "https://github.com/aliceui/tab"
     },
     "bugs": {
-        "url": "https://github.com/aliceui/issues"
+        "url": "https://github.com/aliceui/tab/issues"
     },
     "license": "MIT",
-    "dependencies": {
-    },
-    "tests": ["tab"],
-    "output": {
-        "tab.css": "."
+    "spm": {
+        "alias": {
+        },
+        "output": ["tab.css"]
     }
 }
