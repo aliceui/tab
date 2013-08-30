@@ -1,6 +1,6 @@
 {
     "name": "tab",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "family": "alice",
     "description": "标签切换组件。",
     "keywords": [
